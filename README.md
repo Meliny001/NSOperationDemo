@@ -1,0 +1,2 @@
+# NSOperationDemo
+NSOperation:NSInvocationOperation&amp;NSBlockOperation-addExecutionBlock&amp;NSOperationQueue最大并发数以及依赖和监听
